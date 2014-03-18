@@ -7,4 +7,4 @@ To-do:
 
 * does it support html?
 
-**This is long line test**. Lorem ipsum dolor sit amet, vim ut tritani ponderum, pro labore complectitur ei, appareat comprehensam eos id. Ut has noluisse deseruisse concludaturque. Est te dicta aeterno, cu dolore discere iudicabit usu. Sed ea cetero accusamus, ceteros expetenda definiebas ea pri. Summo ignota dissentiunt cum id, has ea movet appetere incorrupte.
+**This is long line test**. Lorem ipsum dolor sit amet, vim ut tritani ponderum, pro labore complectitur ei, appareat comprehensam eos id. Ut has noluisse <a title="the best text on hover">deseruisse</a> concludaturque. Est te dicta aeterno, cu dolore discere iudicabit usu. Sed ea cetero accusamus, ceteros expetenda definiebas ea pri. Summo ignota dissentiunt cum id, has ea movet appetere incorrupte.
